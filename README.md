@@ -1,0 +1,1 @@
+The repository includes a Jupyter notebook of Coursera's python project module. The notebook includes web scraping exercises and produces a dashboard of historical stock prices and revenue of Tesla and Gamestop.
